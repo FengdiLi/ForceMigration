@@ -1,6 +1,6 @@
-# Healthcare Expenditure v.s. Healthcare Coverage
+# Health Insurance Coverage Study
 
-This is a data analysis project for ANLY501 class.
+This is a data analysis project for ANLY501 class, which investigates the population, region, healthcare expenditure and other potential factors that matters to the health insurance coverage.
 
 'https://501project-ywyxfl.weebly.com' is the link to our final story.
 
